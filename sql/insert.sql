@@ -1,0 +1,22 @@
+-- insert.sql
+INSERT INTO mypc(os) VALUES 
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10'),
+('windows 1.0'),('windows 2.0'),('windows 3.x'),('windows 95'),('windows NT'),
+('windows 2000'),('windows XP'),('windows Vista'),('windows 7'),('windows 10');
